@@ -1,12 +1,12 @@
-# 🚀 Prompt Engineering using Google Gemini AI  
+## 🚀 Prompt Engineering using Google Gemini AI  
 
-### 📄 Page 1 — Overview  
+### Overview  
 This project demonstrates advanced **Prompt Engineering** techniques using **Google Gemini AI**.  
 It automates text, video, and image-based tasks including summarization, Q&A generation, and PDF export — all in one Google Colab notebook.
 
 ---
 
-### 🧠 Page 2 — Key Features  
+### Key Features  
 - 🎥 YouTube video summarization (transcript + AI summary)  
 - 📝 Text summarization and note generation  
 - ❓ Question → Answer automation using Gemini  
@@ -16,7 +16,7 @@ It automates text, video, and image-based tasks including summarization, Q&A gen
 
 ---
 
-### ⚙️ Page 3 — Tech Stack  
+### Tech Stack  
 - **Language:** Python  
 - **Framework:** Google Colab  
 - **API:** Google Gemini (2.5 Pro / 2.0 Flash)  
@@ -28,7 +28,7 @@ It automates text, video, and image-based tasks including summarization, Q&A gen
 
 ---
 
-### 📘 Page 4 — Project Flow  
+### 📘 Project Flow  
 1. **Install dependencies**  
 2. **Configure Gemini API key**  
 3. **Run modular prompts:**  
@@ -38,7 +38,7 @@ It automates text, video, and image-based tasks including summarization, Q&A gen
 
 ---
 
-### 📊 Page 5 — Prompt Modules  
+### 📊 Prompt Modules  
 | Module | Function | Output |
 |:-------|:----------|:--------|
 | 1 | YouTube Video Summarizer | Clean summary |
@@ -52,7 +52,7 @@ It automates text, video, and image-based tasks including summarization, Q&A gen
 
 ---
 
-### 💡 Page 6 — Use Cases  
+### 💡 Use Cases  
 - AI learning projects  
 - Prompt engineering portfolio  
 - Gemini API practice  
@@ -60,9 +60,9 @@ It automates text, video, and image-based tasks including summarization, Q&A gen
 
 ---
 
-### 👩‍💻 Page 7 — Author  
+### 👩‍💻 Author  
 **Developed by:** Fozia  
-**Role:** Data & AI Enthusiast | Prompt Engineer  
+**Role:** Data & AI Enthusiast | Prompt Engineering
 **Tools Used:** Google Colab, Gemini API  
 
 ---
